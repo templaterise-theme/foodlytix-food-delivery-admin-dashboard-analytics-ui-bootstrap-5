@@ -612,7 +612,7 @@ body {
 }
 
 /* Responsive */
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .menu-toggle-mobile {
     display: block;
   }
@@ -2276,7 +2276,7 @@ input:checked + .toggle-slider:before {
   transform: translateY(-2px);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .error-code {
     font-size: 120px;
   }
@@ -2463,7 +2463,7 @@ input:checked + .toggle-slider:before {
   color: var(--border-color);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .footer {
     margin-left: 0;
     padding: 16px;
